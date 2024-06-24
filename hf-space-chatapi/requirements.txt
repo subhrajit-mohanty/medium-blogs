@@ -1,0 +1,7 @@
+fastapi==0.95.1
+uvicorn==0.22.0
+openai==0.27.6
+tinydb==4.7.1
+gunicorn==20.1.0
+uvloop==0.15.2
+httptools==0.2.0
