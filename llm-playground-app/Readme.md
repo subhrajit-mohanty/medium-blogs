@@ -1,6 +1,6 @@
 # LLM Playground
 
-This project is a dynamic, parallel multi-model application built using Streamlit. The application allows users to select various language models, input a prompt, and receive generated outputs from each model in parallel.
+This project is a Playground application built using Streamlit. The application allows users to select various language models, input a prompt, and receive generated outputs from each model in parallel.
 
 ![App Demo](LLM-Playground.gif)
 
